@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: account-service
+  datasource:
+    url: jdbc:h2:mem:accountdb
+    driver-class-name: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+
+server:
+  port: 8081
