@@ -1,2 +1,3 @@
 rootProject.name = 'core-payments-platform'
 include 'account-service'
+include 'transaction-service'

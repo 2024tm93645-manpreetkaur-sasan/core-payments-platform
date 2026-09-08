@@ -15,4 +15,5 @@ intentional — it's what makes the "any agent, validated by any governance
 layer" claim demonstrable rather than just asserted.
 
 ## Services
-- `account-service` — owns customer accounts and balances
+- `account-service` — owns customer accounts and balances 
+- `transaction-service` — moves money between accounts
